@@ -30,6 +30,11 @@ Managers :
 Autres :
 * **Provider** s'occupe de faire les appels à l'API et de transformer le JSON en objet
 
+## Tutoriels
+* [Quizz in Unity](https://www.youtube.com/watch?v=g_Ff1SPhidg&list=PLPV2KyIb3jR7ucA2yo5pjvKY0cJmNTq2L)
+* [Customize text (Textmesh Pro)](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
+* [Dynamique quizz bouton avec scroll](http://gregandaduck.blogspot.com/2015/07/unity-ui-dynamic-buttons-and-scroll-view.html)
+
 ## Auteurs
 * Kévin
 * Benjamin

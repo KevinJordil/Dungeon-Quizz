@@ -20,12 +20,19 @@ Classes :
 * **Quizz** permet de transformer un quizz JSON en objet
 * **Quizzes** permet de transformer un élément du list de quizzes JSON en objet
 * **Question** permet de transformer une question JSON en objet
+* **Enemy** permet de gérer les actions des enemies
+* **Loader** permet d'initialiser le SoundManager et le GameManager
+* **MovingObject** permet de gérer tous les objets qui peuvent bouger
+* **Player** permet de gérer les actions du joueur
+* **Wall** permet de gérer les murs cassables
 
 Managers :
 * **MainManager** est le manager principale
 * **MenuManager** permet de gérer la scène menu
 * **QuizzManager** permet de gérer la scène Quizz
 * **GameManager** permet de gérer la scène Game
+* **BoardManager** permet de gérer la creation du plateau de jeu
+* **SoundManager** permet de gérer les sons
 
 Autres :
 * **Provider** s'occupe de faire les appels à l'API et de transformer le JSON en objet

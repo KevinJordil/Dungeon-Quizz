@@ -41,6 +41,8 @@ Autres :
 * [Quizz in Unity](https://www.youtube.com/watch?v=g_Ff1SPhidg&list=PLPV2KyIb3jR7ucA2yo5pjvKY0cJmNTq2L)
 * [Customize text (Textmesh Pro)](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
 * [Dynamique quizz bouton avec scroll](http://gregandaduck.blogspot.com/2015/07/unity-ui-dynamic-buttons-and-scroll-view.html)
+* [2D Roguelike tutorial](https://unity3d.com/fr/learn/tutorials/s/2d-roguelike-tutorial)
+* [Sprites set](https://0x72.itch.io/dungeontileset-ii)
 
 ## Auteurs
 * Kévin
